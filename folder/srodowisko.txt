@@ -1,0 +1,4 @@
+Android studio
+Pixel_3a_API_34_extension_level_7_x86_64
+
+https://github.com/NIC8085/sprawdzianAndroid.git
